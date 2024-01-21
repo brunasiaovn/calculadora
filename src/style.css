@@ -8,7 +8,7 @@
         align-items: center;
         justify-content: center;
         background-image: url(/fundoM.png);
-        background-color: #F5F4F4;
+        background-color: #f4f5f5;
         background-repeat: no-repeat;
         background-position: center;
     }
@@ -52,7 +52,7 @@
         margin-bottom: 10px;
         border: solid 1px #3A3B3B;
         padding: 40px;
-        background-color: #e5c7dd;
+        background-color: #4fe1c9;
         border-radius: 10px;
         box-shadow: 1px 1px 2px rgb(22, 22, 22);
         width: 385px;
@@ -82,7 +82,7 @@
       .multi{
         width: 80px;
         height: 70px; 
-        background-color: #feb6d0e1;
+        background-color: #b6eafee1;
 
       }
 
