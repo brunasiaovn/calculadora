@@ -1,4 +1,4 @@
- // Passo a passo das funcionalidades da calculadorinha:
+ // Passo a passo das funcionalidades da calculadora:
  // pegar o elemento do visor
  var visor = document.getElementById("visor");
 
